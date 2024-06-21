@@ -1,0 +1,14 @@
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.AssemblyReference.cache
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.exe.config
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.exe
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.exe
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.pdb
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\bin\Debug\LaptopDiscount.exe.config
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\bin\Debug\LaptopDiscount.exe
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.AssemblyReference.cache
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.exe
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.pdb
