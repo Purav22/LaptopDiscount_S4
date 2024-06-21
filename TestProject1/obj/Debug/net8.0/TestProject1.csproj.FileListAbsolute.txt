@@ -94,6 +94,7 @@ C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\De
 C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
 C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
 C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
 C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\TestProj.494AA513.Up2Date
 C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\TestProject1.dll
 C:\Users\ppp22\Downloads\LaptopDiscount_S4\LaptopDiscount_S4\TestProject1\obj\Debug\net8.0\refint\TestProject1.dll
